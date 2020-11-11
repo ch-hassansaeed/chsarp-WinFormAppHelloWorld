@@ -1,0 +1,8 @@
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\bin\Debug\WinFormAppHelloWorld.exe
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\bin\Debug\WinFormAppHelloWorld.pdb
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\obj\Debug\WinFormAppHelloWorld.csprojResolveAssemblyReference.cache
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\obj\Debug\WinFormAppHelloWorld.Form1.resources
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\obj\Debug\WinFormAppHelloWorld.Properties.Resources.resources
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\obj\Debug\WinFormAppHelloWorld.csproj.GenerateResource.Cache
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\obj\Debug\WinFormAppHelloWorld.exe
+d:\win 7 users data\my documents\visual studio 2015\Projects\WinFormAppHelloWorld\WinFormAppHelloWorld\obj\Debug\WinFormAppHelloWorld.pdb
